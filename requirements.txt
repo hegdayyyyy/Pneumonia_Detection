@@ -4,4 +4,7 @@ torchxrayvision
 opencv-python
 matplotlib
 scikit-image
+scikit-learn
 numpy
+streamlit
+Pillow
